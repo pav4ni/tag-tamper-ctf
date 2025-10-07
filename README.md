@@ -1,8 +1,8 @@
-Tag Tamper CTF repo — contains tags for the challenge.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-DO NOT put flags in files. Flags are inside an annotated tag message only.
->>>>>>> d8e0168 (initial commit: add README and hello.txt)
-=======
->>>>>>> ac0024f (initial commit)
+
+
+
+ What marks the moment, yet isn't the moment?  
+ What holds a message, yet isn’t a file?  
+ What is signed, yet not a letter?  
+ Find it — and the truth reveals itself.
+
